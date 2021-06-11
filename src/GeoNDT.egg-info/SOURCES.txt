@@ -1,0 +1,15 @@
+pyproject.toml
+setup.cfg
+setup.py
+src/GeoNDT.egg-info/PKG-INFO
+src/GeoNDT.egg-info/SOURCES.txt
+src/GeoNDT.egg-info/dependency_links.txt
+src/GeoNDT.egg-info/entry_points.txt
+src/GeoNDT.egg-info/not-zip-safe
+src/GeoNDT.egg-info/requires.txt
+src/GeoNDT.egg-info/top_level.txt
+src/fortrangeondt/PoroSEM.f90
+src/geondt/__init__.py
+src/geondt/inverselaplace.py
+src/geondt/one_phase_dispersion.py
+src/geondt/one_phase_dynamic.py

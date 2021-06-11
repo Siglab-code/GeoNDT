@@ -1,0 +1,3 @@
+[console_scripts]
+geondt = geondt.__main__:main
+

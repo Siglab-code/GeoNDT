@@ -1,0 +1,27 @@
+{
+    "glossary": {
+        "title": "Parameter Inputs",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+                "GlossEntry": {
+					"tmin": 3e-4,
+					"tmax": 150e-5,
+					"tlin": 200,
+					"E": [2.42e8],
+					"mu": [0.168], 
+					"rho": [1800],
+					"H": [0.14],
+					"r": 0.0001,
+					"rmax": 0.035,
+					"node": 1, 
+                    "loc": 3,
+					"st": 0,     
+					"lap_num": 50,
+					"ncore": -1      
+                }
+            }
+        }
+    }
+} 
+ 
