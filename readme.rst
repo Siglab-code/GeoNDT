@@ -67,7 +67,10 @@ To install Gfortran and Lapack in Windows::
 
 * Use MinGW <https://sourceforge.net/projects/mingw-w64/> to get Gfortran. Make sure the Mingw is added to the system path. 
 * Then add the liblapack.a file (can be found under lib folder in this respiratory ) in the MinGW folder (C:\mingw64\x86_64-w64-mingw32\lib). 
- 
+
+Additional Information
+==========
+
 For more information, please find more informations in follwing links:  
 
 .. Documentation: https://geondt.readthedocs.io/en/latest/ 
