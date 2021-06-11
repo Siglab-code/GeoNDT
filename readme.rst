@@ -74,8 +74,11 @@ Additional Information
 For more information, please find more informations in follwing links:  
 
 Documentation: https://geondt.readthedocs.io/en/latest/ 
+
 Project website: https://pypi.org/project/GeoNDT/ 
+
 Source code: https://github.com/Siglab-code/GeoNDT
+
 
 References
 ==========
